@@ -1,11 +1,11 @@
 import * as React from 'react'
-import Square from './HelloWorld'
+import Square from './Square'
 
 class App extends React.Component {
   public render() {
     return (
       <div className="App">
-        <Square/>
+        <Square />
       </div>
     );
   }
